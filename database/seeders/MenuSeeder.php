@@ -31,7 +31,7 @@ class MenuSeeder extends Seeder
         Menu::create([
             'name' => 'Kopi Susu',
             'category' => 'drink',
-            'description' => 'Espresso dengan susu segar dicampur dengan sirup butterscotch.',
+            'description' => 'Espresso dengan susu segar.',
             'price' => 15000.00,
             'image_path' => 'menus/kopiSusu.jpg'
         ]);

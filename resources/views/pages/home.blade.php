@@ -12,10 +12,10 @@
     <div class="relative mx-auto grid max-w-6xl gap-12 px-5 py-14 md:grid-cols-[1.15fr_.85fr] md:items-center md:py-24">
         <div>
             <h1 class="reveal font-display text-[3.25rem] font-semibold leading-[0.98] md:text-7xl">
-                Kopi hangat untuk obrolan yang lebih dekat.
+                Segelas Kopi untuk obrolan yang lebih dekat.
             </h1>
             <p class="reveal mt-6 max-w-lg text-lg leading-relaxed text-[#3A2312]/75" style="--d:100ms">
-                Racikan kopi, makanan sederhana, dan tempat nyaman untuk berlama-lama bersama orang-orang tersayang.
+                Temukan kopi favoritmu dan sudut ternyaman untuk menghabiskan waktu di 2 Derajat.
             </p>
             <div class="reveal mt-9 flex flex-wrap gap-3" style="--d:200ms">
                 <a href="{{ route('menu.index') }}" class="btn btn-primary">Lihat Menu Kami</a>
@@ -57,12 +57,10 @@
         <div>
             <h2 class="reveal font-display text-5xl font-semibold leading-none md:text-6xl">Cerita Kami</h2>
             <p class="reveal mt-6 text-lg leading-relaxed text-[#3A2312]/80" style="--d:100ms">
-                Ganti teks ini dengan cerita 2 Derajat: kapan kedai ini dibuka, dari mana ide namanya,
-                dan apa yang membuat tempat ini terasa seperti rumah kedua bagi para pelanggan.
+                2 Derajat berawal dari keinginan sederhana, menghadirkan tempat nongkrong yang nyaman dan ramah di kantong. 2 Derajat lebih dari sekadar kedai kopi, kami ingin tempat ini jadi sudut singgah yang terasa seperti rumah sendiri bagi siapa saja yang datang.
             </p>
             <p class="reveal mt-4 text-lg leading-relaxed text-[#3A2312]/80" style="--d:150ms">
-                Tambahkan satu paragraf lagi tentang biji kopi pilihan, cara kalian meracik, atau
-                hal kecil yang selalu dijaga dari hari pertama.
+                Kami menyajikan racikan kopi dan sajian sederhana dengan bahan terbaik, diiringi suasana outdoor yang santai untuk menemani obrolan harianmu dari sore hingga larut malam.
             </p>
             <div class="reveal mt-8" style="--d:200ms">
                 <a href="{{ route('founders.index') }}" class="btn btn-outline">Kenali Orang di Baliknya</a>
@@ -195,8 +193,8 @@
 {{-- CTA --}}
 <section class="bg-[#915517] py-16 text-white md:py-20">
     <div class="reveal mx-auto max-w-3xl px-5 text-center">
-        <h2 class="font-display text-4xl font-semibold leading-tight md:text-5xl">Sudah siap seruput kehangatan 2 Derajat hari ini?</h2>
-        <p class="mt-4 text-lg text-white/85">Mampir langsung ke kedai kami dan temukan menu favoritmu.</p>
+        <h2 class="font-display text-4xl font-semibold leading-tight md:text-5xl">Bingung mau nongkrong di mana hari ini??</h2>
+        <p class="mt-4 text-lg text-white/85">2 Derajat siap menyambutmu.</p>
         <div class="mt-8 flex flex-wrap justify-center gap-3">
             <a href="{{ route('menu.index') }}" class="btn btn-light">Lihat Menu</a>
             <a href="#lokasi" class="btn btn-outline-light">Temukan Lokasi</a>

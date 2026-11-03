@@ -3,7 +3,7 @@
         <div>
             <img src="{{ asset('storage/Assets/Logo/logo-horizontal-white.png') }}" alt="2 Derajat" class="h-16 w-auto">
             <p class="mt-5 max-w-xs text-sm leading-relaxed">
-                Kedai kopi dengan racikan hangat dan suasana yang bikin betah berlama-lama.
+                Kedai kopi dengan racikan yang mantap dan suasana yang bikin betah berlama-lama.
             </p>
         </div>
 

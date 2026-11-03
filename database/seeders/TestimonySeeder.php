@@ -30,7 +30,7 @@ class TestimonySeeder extends Seeder
         ]);
 
         Testimony::create([
-            'name' => 'Fajar Sadboy',
+            'name' => 'Matthew',
             'comment' => 'Tempatnya cocok buat ngelamun mikirin dia :(',
             'rating' => 5,
             'image_path' => 'Assets/Logo/icon.png',
